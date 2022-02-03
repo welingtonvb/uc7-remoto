@@ -1,9 +1,6 @@
 # uc7-remoto
 Atividade em dupla do encontro remoto.
 
-<<<<<<< HEAD
-# uc7-remoto
-
 Listagem de comandos welington da Vitoria:
 
 git init
